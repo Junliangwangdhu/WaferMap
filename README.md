@@ -16,4 +16,4 @@ To train a model, run [train_mutil_label.py](train_mutil_label.py)
 ## WaferMap pattern Show:
 The picture introduces 38 wafer pattern and the corresponding feature map after using Deformable Convolution
 
-![](./Wafer Map.png)
+![](/Wafer Map.png)
