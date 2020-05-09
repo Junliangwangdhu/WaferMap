@@ -9,6 +9,6 @@ Python 3+
 numpy scipy matplotlib tensorflow keras scikit-learn
 
 ## Instructions：
-Download and process the data in data_mutil_label.npz
+Download and process the data in [data_mutil_label.npz](https://pan.baidu.com/s/19aEazgpLMBPBzjePSCTgHw) Extraction code: mrpm
 
-To train a model, run train_mutil_label.py
+To train a model, run [train_mutil_label.py](train_mutil_label.py)
