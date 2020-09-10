@@ -20,3 +20,7 @@ Extraction code: mrpm
 * The picture introduces 38 wafer pattern and the corresponding feature map after using Deformable Convolution
 
 ![](https://github.com/Junliangwangdhu/WaferMap/blob/master/Wafer%20Map.png)
+
+## Cite This:
+J. Wang, C. Xu, Z. Yang, J. Zhang and X. Li, "Deformable Convolutional Networks for Efficient Mixed-type Wafer Defect Pattern Recognition," in IEEE Transactions on Semiconductor Manufacturing, doi: 10.1109/TSM.2020.3020985.
+
