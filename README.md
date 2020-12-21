@@ -11,7 +11,7 @@
 ## Instructions：
 * Download and process the data in [data_mutil_label.npz](https://pan.baidu.com/s/19aEazgpLMBPBzjePSCTgHw)\
 Extraction code: mrpm
-* Other sources:
+* Other sources:\
 [Kaggle](https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets)\
 [Google](https://drive.google.com/file/d/1bUow-p9LwkRI4yP74j7Um5s30-WHcxbA/view?usp=sharing)
 
