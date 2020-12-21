@@ -21,6 +21,10 @@ Extraction code: mrpm
 
 ![](https://github.com/Junliangwangdhu/WaferMap/blob/master/Wafer%20Map.png)
 
+
+## Introduction in other languages
+* Chinese：[混合模式晶圆图缺陷数据集](https://tianchi.aliyun.com/dataset/dataDetail?dataId=77328)
+
 ## Cite This:
 J. Wang, C. Xu, Z. Yang, J. Zhang and X. Li, "Deformable Convolutional Networks for Efficient Mixed-type Wafer Defect Pattern Recognition," in IEEE Transactions on Semiconductor Manufacturing, doi: 10.1109/TSM.2020.3020985.
 
