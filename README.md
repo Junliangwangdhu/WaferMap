@@ -12,17 +12,14 @@
 * Download and process the data in [data_mutil_label.npz](https://pan.baidu.com/s/19aEazgpLMBPBzjePSCTgHw)\
 Extraction code: mrpm
 * Other sources:
-[Kaggle](https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets)
+[Kaggle](https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets)\
 [Google](https://drive.google.com/file/d/1bUow-p9LwkRI4yP74j7Um5s30-WHcxbA/view?usp=sharing)
 
 * In the data set, "data['arr 0']" is the wafer image data, and "data['arr1']" is the label of the wafer image. The wafer map label has eight dimensions, corresponding to the defect mode of C2-C9 [in Wafer Map.png](Wafer%20Map.png)
 
 * To train a model, run [train_mutil_label.py](train_mutil_label.py)
 
-## WaferMap pattern Show:
-* The picture introduces 38 wafer pattern and the corresponding feature map after using Deformable Convolution
-
-![](https://github.com/Junliangwangdhu/WaferMap/blob/master/Wafer%20Map.png)
+* To know more about this dataset:[MixedWM38](https://ieeexplore.ieee.org/document/9184890/)
 
 
 ## Introduction in other languages
