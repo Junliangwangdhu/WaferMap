@@ -1,12 +1,6 @@
 # WaferMap Dataset: MixedWM38
 
-[MixedWM38](https://ieeexplore.ieee.org/document/9184890/) Dataset(WaferMap) has more than 38000 wafer maps, including 1 normal pattern, 8 single defect patterns, and 29 mixed defect patterns, a total of 38 defect patterns.
-
-## Requirements:
-
-* Python 3+
-
-* numpy scipy matplotlib tensorflow keras scikit-learn
+MixedWM38 Dataset(WaferMap) has more than 38000 wafer maps, including 1 normal pattern, 8 single defect patterns, and 29 mixed defect patterns, a total of 38 defect patterns.
 
 ## Motivation：
 Defect pattern recognition (DPR) of wafer maps, especially the mixed-type defect, is critical for determining the root cause of production defects.
@@ -15,8 +9,16 @@ However, there are big differences between the quantity distribution of various 
 
 ## Description:
 
-* Overview
-[Wafer Map](Dataset%20Figure/Wafer%20Map.png)
+* Overview\
+[Wafer Map](Dataset%20Figure/Wafer%20Map.png)\
+Single Type(9):\
+![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Single-Type.png)\
+Two Mixed-Type(13):\
+![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Mixed-Type-2.png)\
+Three Mixed-Type(12):\
+![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Mixed-Type-3.png)\
+Four Mixed-Type(4):\
+![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Mixed-Type-4.png)\
 * [‘arr_0’]: Defect data of mixed-type wafer map, 0 means blank spot, 1 represents normal die that passed the electrical test, and 2 represents broken die that failed the electrical test. The data shape is 52×52.
 * [‘arr_1’]: Mixed-type wafer map defect label, using one-hot encoding, a total of 8 dimensions, corresponding to the 8 basic types of wafer map defects (C2-C9).
 
@@ -31,8 +33,14 @@ However, there are big differences between the quantity distribution of various 
 * More:\
 [MixedWM38](https://ieeexplore.ieee.org/document/9184890/)
 
+## Requirements:
+
+* Python 3+
+
+* numpy scipy matplotlib tensorflow keras scikit-learn
+
 ## Introduction in other languages
-* Chinese：
+* Chinese：\
 [混合模式晶圆图缺陷数据集](https://tianchi.aliyun.com/dataset/dataDetail?dataId=77328)
 
 ## Citation:
