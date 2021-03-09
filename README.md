@@ -3,10 +3,10 @@
 MixedWM38 Dataset(WaferMap) has more than 38000 wafer maps, including 1 normal pattern, 8 single defect patterns, and 29 mixed defect patterns, a total of 38 defect patterns.
 
 ## Motivation：
-Defect pattern recognition (DPR) of wafer maps, especially the mixed-type defect, is critical for determining the root cause of production defects.
-We collected a large amount of wafer map data in a wafer manufacturing plant. These wafer maps are obtained by testing the electrical performance of each die on the wafer through test probes. However, there are big differences between the quantity distribution of various types of wafer maps actually collected.\
+Defect pattern recognition (DPR) of wafermap, especially the mixed-type defect, is critical for determining the root cause of production defect.
+We collected a large amount of wafer map data in a wafer manufacturing plant. These wafer maps are obtained by testing the electrical performance of each die on the wafer through test probes. However, there are big differences between the quantity distribution of various patterns of wafermap actually collected.\
 \
-To maintain the balance between the various types of data, we used the confrontation generation network to generate some wafer maps to maintain the balance of the number of samples among the types. Finally, about 38,000 mixed-mode wafermap defect dataset is formed, which are used to identify mixed-type wafermap defect and assist the research on the causes of defect in the wafer manufacturing process. In order to facilitate researchers, students, and enthusiasts in related fields to better understand the causes of defects in the wafer manufacturing process, we published this dataset of mixed-mode wafer map defects for you to research.
+To maintain the balance between the various patterns of data, we used the confrontation generation network to generate some wafer maps to maintain the balance of the number of samples among the patterns. Finally, about 38,000 mixed-mode wafermap defect dataset is formed, which are used to identify mixed-type wafermap defect and assist the research on the causes of defect in the wafer manufacturing process. In order to facilitate researchers, students, and enthusiasts in related fields to better understand the causes of defects in the wafer manufacturing process, we public this dataset of mixed-type wafermap defect for you to research.
 
 ## Description:
 
