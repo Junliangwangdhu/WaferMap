@@ -4,9 +4,9 @@ MixedWM38 Dataset(WaferMap) has more than 38000 wafer maps, including 1 normal p
 
 ## Motivation：
 Defect pattern recognition (DPR) of wafer maps, especially the mixed-type defect, is critical for determining the root cause of production defects.
-We collected a large amount of wafer map data in a wafer manufacturing plant. These wafer maps are obtained by testing the electrical performance of each die on the wafer through test probes. \
+We collected a large amount of wafer map data in a wafer manufacturing plant. These wafer maps are obtained by testing the electrical performance of each die on the wafer through test probes. However, there are big differences between the quantity distribution of various types of wafer maps actually collected.\
 \
-However, there are big differences between the quantity distribution of various types of wafer maps actually collected. In order to maintain the balance between the various types of data, we used the confrontation generation network to generate some wafer maps to maintain the balance of the number of samples among the types. Finally, about 38,000 mixed-mode wafer map defect data sets are formed, which are used to identify mixed-mode wafer map defects and assist the research on the causes of defects in the wafer manufacturing process. In order to facilitate researchers, students, and enthusiasts in related fields to better understand the causes of defects in the wafer manufacturing process, we published this dataset of mixed-mode wafer map defects for you to research.
+To maintain the balance between the various types of data, we used the confrontation generation network to generate some wafer maps to maintain the balance of the number of samples among the types. Finally, about 38,000 mixed-mode wafermap defect dataset is formed, which are used to identify mixed-type wafermap defect and assist the research on the causes of defect in the wafer manufacturing process. In order to facilitate researchers, students, and enthusiasts in related fields to better understand the causes of defects in the wafer manufacturing process, we published this dataset of mixed-mode wafer map defects for you to research.
 
 ## Description:
 
