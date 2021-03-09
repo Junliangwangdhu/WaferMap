@@ -27,7 +27,7 @@ Four Mixed-Type(4):\
 
 * Sources:\
 [Kaggle](https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets)\
-[Google](https://drive.google.com/file/d/1bUow-p9LwkRI4yP74j7Um5s30-WHcxbA/view?usp=sharing)\
+[Google](https://drive.google.com/file/d/1M59pX-lPqL9APBIbp2AKQRTvngeUK8Va/view?usp=sharing)\
 [Baidu](https://pan.baidu.com/s/1vOVzqByiE3VlhSZgvnGv7w) （Code: r7vq） 
 
 * Basemodel:\
