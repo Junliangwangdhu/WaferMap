@@ -22,13 +22,13 @@ Three Mixed-Type(12):\
 ![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Mixed-Type-3.png)\
 Four Mixed-Type(4):\
 ![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Mixed-Type-4.png)\
-* [‘arr_0’]: Defect data of mixed-type wafer map, 0 means blank spot, 1 represents normal die that passed the electrical test, and 2 represents broken die that failed the electrical test. The data shape is 52×52.
+* [‘arr_0’]: Defect data of mixed-type wafer map, 0 means blank spot, 1 represents normal die that passed the electrical test, and 2 represents broken die that failed the electrical test. The data(ndarray) shape is (52, 52).
 * [‘arr_1’]: Mixed-type wafer map defect label, using one-hot encoding, a total of 8 dimensions, corresponding to the 8 basic types of wafer map defects (C2-C9).
 
 * Sources:\
 [Kaggle](https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets)\
 [Google](https://drive.google.com/file/d/1bUow-p9LwkRI4yP74j7Um5s30-WHcxbA/view?usp=sharing)\
-[Baidu](https://pan.baidu.com/s/1vOVzqByiE3VlhSZgvnGv7w) Code: r7vq 
+[Baidu](https://pan.baidu.com/s/1vOVzqByiE3VlhSZgvnGv7w) （Code: r7vq） 
 
 * Basemodel:\
 [Training](train_mutil_label.py)
