@@ -11,17 +11,17 @@ To maintain the balance between the various patterns of data, we used the confro
 ## Description:
 
 * Overview:\
-![image](master/Dataset%20Figure/Wafer%20Map.png)
+![image](Dataset%20Figure/Wafer%20Map.png)
 
 * Patterns: Provided by Mr. Uzma Batool from the University of Technology Malaysia\
 Single Type(9):\
-![image](master/Dataset%20Figure/Single-Type.png)\
+![image](Dataset%20Figure/Single-Type.png)\
 Two Mixed-Type(13):\
-![image](master/Dataset%20Figure/Mixed-Type-2.png)\
+![image](Dataset%20Figure/Mixed-Type-2.png)\
 Three Mixed-Type(12):\
-![image](master/Dataset%20Figure/Mixed-Type-3.png)\
+![image](Dataset%20Figure/Mixed-Type-3.png)\
 Four Mixed-Type(4):\
-![image](master/Dataset%20Figure/Mixed-Type-4.png)
+![image](Dataset%20Figure/Mixed-Type-4.png)
 * [‘arr_0’]: Defect data of mixed-type wafer map, 0 means blank spot, 1 represents normal die that passed the electrical test, and 2 represents broken die that failed the electrical test. The data(ndarray) shape is (52, 52).
 * [‘arr_1’]: Mixed-type wafer map defect label, using one-hot encoding, a total of 8 dimensions, corresponding to the 8 basic types of wafer map defects (C2-C9).
 
