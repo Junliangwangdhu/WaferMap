@@ -13,7 +13,7 @@ To maintain the balance between the various patterns of data, we used the confro
 * Overview:\
 ![image](Dataset%20Figure/Wafer%20Map.png)
 
-* Patterns:\
+* Patterns: Provided by Mr. Uzma Batool from the University of Technology Malaysia\
 Single Type(9):\
 ![image](https://github.com/Junliangwangdhu/WaferMap/blob/master/Dataset%20Figure/Single-Type.png)\
 Two Mixed-Type(13):\
