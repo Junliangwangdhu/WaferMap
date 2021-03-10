@@ -31,7 +31,7 @@ Four Mixed-Type(4):\
 [Baidu](https://pan.baidu.com/s/1vOVzqByiE3VlhSZgvnGv7w) （Code: r7vq） 
 
 * Basemodel:\
-[Training](train_mutil_label.py)
+[Training](https://github.com/Junliangwangdhu/WaferMap/blob/master/trian_mutil_label.py)
 
 * More:\
 [MixedWM38](https://ieeexplore.ieee.org/document/9184890/)
@@ -51,6 +51,6 @@ Four Mixed-Type(4):\
 
 ## Acknowledgement
 
-Thanks to Dr. Uzma Batool from the University of Technology Malaysia for correcting the label errors in the original dataset! The C7 and C9 labels in the dataset have been corrected!
+Thanks to Mr. Uzma Batool from the University of Technology Malaysia for correcting the label errors in the original dataset! The C7 and C9 labels in the dataset have been corrected!
 
 
