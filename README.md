@@ -11,7 +11,7 @@ To maintain the balance between the various patterns of data, we used the genera
 ## Description:
 
 * Overview:\
-![image](Dataset%20Figure/Wafer%20Map.png)
+![image](Dataset%20Figure/Wafer%20Maps.png)
 
 * Patterns: Provided by Mr. Uzma Batool from the University of Technology Malaysia\
 Single Type(9):\
